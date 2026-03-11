@@ -1,0 +1,13 @@
+- IPV6: 32 digitos hexadecimais e 128 bits
+- Endereços privados: 10.0.0.0/8 , 172.16.0.0/12, 192.168.0.0/16
+- /8 = Diz que os 8 primeiros bits são destinados a rede e os demais ao host
+- /12 = Diz que os 12 primeiros bits são destinados a rede e os demais ao host
+- /16 = Diz que os 16 primeiros bits são destinados a rede e os demais ao host
+- IP: Camada 3 (de rede)(roteadores)
+- Pv4: 4 digitos decimais e 32 bits 
+- Mac: 12 digitos hexadecimais 
+- Mac camada 2: Enlace (Switches)
+- Mac hexadecimal, endereço fisico e 48bits
+- Mac é o endereço usado pelo switch para encaminhamento de quadros (endereço físico)
+- Ip é usado pelos roteadores para o encaminhamento de pacotes (endereço lógico)
+- Roteador recebe o IP do host(entrada) , pega o ip do Host faz um & com a mascara e descobre o IP da rede(saida)

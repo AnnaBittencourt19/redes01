@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "31b8361fdcb5af2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d105526db6ca32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127df2a320dc446b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21728912b47baf15",
+    "type": "split",
+    "children": [
+      {
+        "id": "93dbe3fd4f2cf943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663ae54f6c9520ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "36a860cf1d2d71d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "cd4643ea9caf2ae4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "250fd82fe2ffb169",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabb2ab16e2315de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e155d67efbe0e0f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "refazendo atividade 1 e 2 (revisão).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para refazendo atividade 1 e 2 (revisão)"
+            }
+          },
+          {
+            "id": "43bee6920705a844",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "refazendo atividade 1 e 2 (revisão).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para refazendo atividade 1 e 2 (revisão)"
+            }
+          },
+          {
+            "id": "ddbcf4b1d82abb38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "41e2353bd2634802",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "46110e7bd13b83cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "refazendo atividade 1 e 2 (revisão).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de refazendo atividade 1 e 2 (revisão)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "127df2a320dc446b",
+  "lastOpenFiles": [
+    "Lista 1 e 2/Revisão redes_atividade1.pdf",
+    "refazendo atividade 1 e 2 (revisão).md",
+    "Lista 1 e 2/refazendo atividade 1 e 2 (revisão).md",
+    "Lista 1 e 2",
+    "pasta sem título",
+    "Revisão redes_atividade1.pdf"
+  ]
+}
