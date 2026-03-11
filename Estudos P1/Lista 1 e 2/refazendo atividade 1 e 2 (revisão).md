@@ -4,7 +4,7 @@
 - /12 = Diz que os 12 primeiros bits são destinados a rede e os demais ao host
 - /16 = Diz que os 16 primeiros bits são destinados a rede e os demais ao host
 - IP: Camada 3 (de rede)(roteadores)
-- Pv4: 4 digitos decimais e 32 bits 
+- IPv4: 4 digitos decimais e 32 bits 
 - Mac: 12 digitos hexadecimais 
 - Mac camada 2: Enlace (Switches)
 - Mac hexadecimal, endereço fisico e 48bits
