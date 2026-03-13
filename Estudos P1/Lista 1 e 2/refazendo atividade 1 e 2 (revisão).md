@@ -4,10 +4,23 @@
 - /12 = Diz que os 12 primeiros bits são destinados a rede e os demais ao host
 - /16 = Diz que os 16 primeiros bits são destinados a rede e os demais ao host
 - IP: Camada 3 (de rede)(roteadores)
-- IPv4: 4 digitos decimais e 32 bits 
-- Mac: 12 digitos hexadecimais 
+- IPv4: 4 números decimais e 32 bits 
+- Mac: 12 dígitos hexadecimais 
 - Mac camada 2: Enlace (Switches)
 - Mac hexadecimal, endereço fisico e 48bits
 - Mac é o endereço usado pelo switch para encaminhamento de quadros (endereço físico)
 - Ip é usado pelos roteadores para o encaminhamento de pacotes (endereço lógico)
-- Roteador recebe o IP do host(entrada) , pega o ip do Host faz um & com a mascara e descobre o IP da rede(saida)
+- Roteador recebe o IP do host(entrada) , pega o ip do Host faz um & com a mascara e descobre o IP da rede(saida) 
+- Modelo OSI: 7 camadas
+- TCP/IP: Protocolos, implementa funções definidas no modelo OSI
+- OSI: Funcionalidades 
+- IP: Camada de rede
+- TCP: Camada de transporte
+- UDP: Camada de transporte
+- HTTP, SMTP e FTP: Camada de aplicação do modelo TCP/IP
+- Camada física interfaceamento
+- Http: Porta 80
+- Rapides: UDP
+- Socket: Fica entre a camada de aplicação e a camada de transporte
+- Portas bem conhecidas: Já reservadas para para serviços e aplicações específicas 
+- Portas dinâmicas: Escolhidas pelo sistema operacional do cliente para identificar sua aplicação
