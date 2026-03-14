@@ -11,12 +11,14 @@
             "id": "d0246623c6d0f8bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Estudos P1/Lista 1 e 2/Revisão redes_atividade1.pdf"
+                "file": "Estudos P1/Lista 1 e 2/refazendo atividade 1 e 2 (revisão).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Revisão redes_atividade1"
+              "icon": "lucide-file",
+              "title": "refazendo atividade 1 e 2 (revisão)"
             }
           }
         ]
@@ -184,6 +186,8 @@
   "active": "d0246623c6d0f8bf",
   "lastOpenFiles": [
     "Estudos P1/Lista 1 e 2/Atividade 2 redes_260313_173218.pdf",
+    "Estudos P1/Lista 1 e 2/Revisão redes_atividade1.pdf",
+    "README.md",
     "Estudos P1/Atividade 2 redes_260313_173218.pdf",
     "Atividade 2 redes_260313_173218.pdf",
     "Estudos P1/Lista 1 e 2/refazendo atividade 1 e 2 (revisão).md",

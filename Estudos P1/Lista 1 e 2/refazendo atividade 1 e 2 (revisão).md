@@ -20,7 +20,7 @@
 - HTTP, SMTP e FTP: Camada de aplicação do modelo TCP/IP
 - Camada física interfaceamento
 - Http: Porta 80
-- Rapides: UDP
+- Rapidez: UDP
 - Socket: Fica entre a camada de aplicação e a camada de transporte
 - Portas bem conhecidas: Já reservadas para para serviços e aplicações específicas 
 - Portas dinâmicas: Escolhidas pelo sistema operacional do cliente para identificar sua aplicação
