@@ -11,14 +11,12 @@
             "id": "d0246623c6d0f8bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Estudos P1/Lista 1 e 2/refazendo atividade 1 e 2 (revisão).md",
-                "mode": "source",
-                "source": false
+                "file": "Estudos P1/Listas/Redes atividade 4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "refazendo atividade 1 e 2 (revisão)"
+              "icon": "lucide-file-text",
+              "title": "Redes atividade 4"
             }
           }
         ]
@@ -183,14 +181,30 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d0246623c6d0f8bf",
+  "active": "89ffd1eb2d2d0341",
   "lastOpenFiles": [
-    "Estudos P1/Lista 1 e 2/Atividade 2 redes_260313_173218.pdf",
-    "Estudos P1/Lista 1 e 2/Revisão redes_atividade1.pdf",
+    "Captura de Tela 2026-04-02 às 21.24.26.png",
+    "Estudos P1/Listas/Atividade 5.md",
+    "Captura de Tela 2026-04-02 às 21.24.09.png",
+    "Captura de Tela 2026-04-02 às 21.23.52.png",
+    "Captura de Tela 2026-04-02 às 21.23.35.png",
+    "Captura de Tela 2026-04-02 às 21.22.47.png",
+    "Captura de Tela 2026-04-02 às 21.22.36.png",
+    "Captura de Tela 2026-04-02 às 21.22.25.png",
+    "Estudos P1/Listas/Atividade 5.pdf",
+    "Captura de Tela 2026-04-02 às 21.23.24.png",
+    "Captura de Tela 2026-04-02 às 21.23.12.png",
+    "Captura de Tela 2026-04-02 às 21.22.58.png",
+    "Estudos P1/Sem título.md",
+    "Estudos P1/Listas",
+    "Estudos P1/Listas/Redes atividade 4.pdf",
+    "Estudos P1/Listas/Atividade3Redes.pdf",
+    "Estudos P1/Listas/Revisão redes_atividade1.pdf",
+    "Estudos P1/Listas/refazendo atividade 1 e 2 (revisão).md",
+    "Estudos P1/Listas/Atividade 2 redes_260313_173218.pdf",
     "README.md",
     "Estudos P1/Atividade 2 redes_260313_173218.pdf",
     "Atividade 2 redes_260313_173218.pdf",
-    "Estudos P1/Lista 1 e 2/refazendo atividade 1 e 2 (revisão).md",
     "Estudos P1/Redes.apkg"
   ]
 }
