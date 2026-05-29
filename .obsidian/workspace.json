@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos P2/2. IPv6.md",
+                "file": "Estudos P1/Listas/Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. IPv6"
+              "title": "Ethernet"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b64688c11fb4ff3",
@@ -186,8 +185,20 @@
   },
   "active": "d0246623c6d0f8bf",
   "lastOpenFiles": [
-    "Estudos P2/1. IPV4.md",
+    "Captura de Tela 2026-05-24 às 21.47.06.png",
+    "Captura de Tela 2026-05-24 às 21.46.52.png",
+    "Captura de Tela 2026-05-24 às 21.46.31.png",
+    "Captura de Tela 2026-05-24 às 21.46.11.png",
+    "Captura de Tela 2026-05-24 às 21.45.50.png",
+    "Estudos P2/4. Padrão IEEE 802.11 (Wi-Fi).md",
+    "Estudos P1/Listas/Ethernet.md",
+    "Estudos P2/4. Padrão IEEE 802.11 (Wi-Fi).pdf",
+    "Estudos P2/3. Ethernet.md",
+    "Estudos P2/3. Ethernet.pdf",
     "Estudos P2/2. IPv6.md",
+    "Estudos P2/2. IPv6.pdf",
+    "Estudos P2/1. IPV4.md",
+    "Estudos P2/1. IPV4.pdf",
     "Captura de Tela 2026-04-28 às 19.41.43.png",
     "Estudos P1/Estudos pelo livro/Capitulo 2 - Camada de aplicação.md",
     "Estudos P2",
@@ -200,17 +211,9 @@
     "Captura de Tela 2026-04-02 às 21.24.09.png",
     "Captura de Tela 2026-04-02 às 21.23.52.png",
     "Captura de Tela 2026-04-02 às 21.23.35.png",
-    "Captura de Tela 2026-04-02 às 21.22.47.png",
-    "Captura de Tela 2026-04-02 às 21.22.36.png",
-    "Captura de Tela 2026-04-02 às 21.22.25.png",
     "Estudos P1/Listas/Atividade 5.pdf",
-    "Captura de Tela 2026-04-02 às 21.23.24.png",
     "Estudos P1/Listas",
-    "Estudos P1/Listas/Atividade3Redes.pdf",
-    "Estudos P1/Listas/Revisão redes_atividade1.pdf",
     "Estudos P1/Listas/refazendo atividade 1 e 2 (revisão).md",
-    "README.md",
-    "Estudos P1/Atividade 2 redes_260313_173218.pdf",
-    "Atividade 2 redes_260313_173218.pdf"
+    "README.md"
   ]
 }
